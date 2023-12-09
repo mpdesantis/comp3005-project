@@ -7,9 +7,10 @@
 Project documentation.
 
 ## Contents
-
-### COMP3005__Project___Fall23.pdf
-Project Assignment.
+* COMP3005__Project___Fall23.pdf
+    Project assignment document.
+* COMP3005__ProjectSlides___Fall23.pdf
+    Project assignment slides.
 
 ## Notes
 
