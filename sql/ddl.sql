@@ -71,7 +71,6 @@ create table Sessions (
     start_time time without time zone,
     end_time time without time zone,
     start_date date, 
-    end_date date, 
 
     primary key (session_id),
     foreign key (trainer_id)
