@@ -52,6 +52,7 @@ create table Equipment  (
     primary key (equipment_id)
 );
 
+
 -- Table: Tiers
 create table Tiers  (
     tier_level serial unique not null,

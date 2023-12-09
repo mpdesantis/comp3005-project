@@ -3,8 +3,9 @@
 -- Michael De Santis
 -- CUID: 101213450
 
+-- Drop All Tables
+
 drop table 
-(
     Members,
     Trainers,
     Administrators,
@@ -19,7 +20,4 @@ drop table
     Phones,
     Emails
     CASCADE
-);
-    
-
-
+;
