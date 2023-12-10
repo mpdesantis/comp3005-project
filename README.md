@@ -15,7 +15,7 @@ A Health and Fitness Club Management System Database modeled with PostgreSQL.
 
 <a id="video"></a>
 ## Video
-Please find a very brief demonstrative video of the application [here](TODO).
+Please find a very brief demonstrative video of the application [here](https://youtu.be/6Tf_wk6OHFM/).
 
 <a id="contents"></a>
 ## Contents
