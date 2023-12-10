@@ -7,6 +7,7 @@
 Initial Relational Database Schemas prior to normalization or other revisions.
 
 ## Contents
-
-## Notes
-
+* `comp3005_project_rds_initial.png`
+    * Image file of Relational Database Schema Diagram.
+* `comp3005_project_rds_initial.vpd`
+    * Source file for Visual Paradigm Online of Relational Database Schema Diagram.

@@ -4,9 +4,10 @@
 * Date: 2023/12/08
 
 ## Description
-Revised Relational Database Schemas after normalization.
+Final Relational Database Schemas after normalization or other revisions. The schema herein is the schema that was implemented for this project's database, using the files in `sql/`.
 
 ## Contents
-
-## Notes
-
+* `comp3005_project_rds_final.png`
+    * Image file of Relational Database Schema Diagram.
+* `comp3005_project_rds_final.vpd`
+    * Source file for Visual Paradigm Online of Relational Database Schema Diagram.
