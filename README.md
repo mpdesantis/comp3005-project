@@ -23,10 +23,15 @@ Please find a very brief demonstrative video of the application [here](TODO).
 ### `doc/`
 Project documentation, including the project report.
 
+### `erd/`
+Entity-Relationship Diagrams used in the development of this database.
+
+### `rds/`
+Relational Database Schema used in the development of this database. Contains initial and revised/normalized schema.
+
 ### `sql/`
 PostgreSQL Data Definition Language and Data Manipulation Language files for creating and populating a sample instance of the relational database used in this project, as well as some additional queries for demonstration.
 
 <a id="notes"></a>
 ## Notes
 Thanks!!
-

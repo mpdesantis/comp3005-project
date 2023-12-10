@@ -4,9 +4,10 @@
 * Date: 2023/12/08
 
 ## Description
-Relational Database Schema.
+Entity-Relationship Diagram, adhering to Chen Notation.
 
 ## Contents
-
-## Notes
-
+* `comp3005_project_erd_final.png`
+    * Image file of Entity-Relationship Diagram.
+* `comp3005_project_erd_final.vpd`
+    * Source file for Visual Paradigm Online of Entity-Relationship Diagram.
