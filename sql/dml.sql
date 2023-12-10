@@ -256,7 +256,7 @@ VALUES
 (
     1,
     'Wild Weights',
-    'Thursday',
+    'Wednesday',
     10,
     '08:00:00',
     '09:00:00',
