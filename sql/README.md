@@ -15,7 +15,5 @@ Data Definition Language file for instantiating the relational database tables a
 Data Manipulation Language file for populating the relational database with some sample data in PostgreSQL.
 
 ### `reset.sql`
-Quick query to effect reset of the database during testing.
-
-## Notes
+Quick reset of the database useful during testing.
 
